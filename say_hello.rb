@@ -1,3 +1,3 @@
 # Build your say_hello method here
-define say_hello(name, message="Hello Ruby Programmer!")
+def say_hello()
   puts 
